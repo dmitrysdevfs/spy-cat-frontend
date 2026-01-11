@@ -40,5 +40,12 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# Internal Management
+AGENT_CURRENT.md
+REQUIREMENTS.md
+CONTRIBUTING.md
+BACKEND.md
+
+
 .idea
 .vscode
